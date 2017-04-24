@@ -1,0 +1,66 @@
+.subtitulo {
+
+}
+
+#titulo-about {
+  display: block;
+  padding-top: 30px;
+  margin-bottom: -10px;
+  text-align: center;
+
+}
+
+#foto-primera-mim {
+  margin-top: 50px;
+  display: block;
+  text-align: center;
+}
+
+#foto-segona-mim {
+  margin-top: 5px;
+  display: block;
+  text-align: center;
+}
+
+body { margin: 0; }
+.col {
+  width: 50%;
+  float:left;
+  box-sizing: border-box;
+}
+
+.page
+{
+  width: 900px;
+  margin: 0 auto;
+
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  padding-left: 0px;
+  li{
+    margin-top: 0px;
+    padding-right: 10px;
+  }
+}
+.col-right {
+  padding-top: 59px;
+}
+
+#titulo-foto {
+  width: 900px;
+  text-align: right;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.ver-mas-proyectos {
+  width: 900px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  a {
+    text-decoration: none;
+  }
+}

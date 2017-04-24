@@ -1,0 +1,87 @@
+
+.wave-yellow {
+  margin-left: 45%;
+  margin-right: 55%;
+  padding-top: -30px;
+}
+
+.imageWrapper {
+    float: left;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+#titulo-about {
+  display: block;
+  padding-top: 30px;
+  margin-bottom: -10px;
+  text-align: center;
+
+}
+
+ul.about-ul{
+  li.blanco{
+    width: 40%;
+  }
+  li.contenido{
+    padding-right:80px;
+    width: 60%;
+    img{
+      width: 100%;
+    }
+  }
+  li.blanco{
+    padding-left:80px;
+    width: 60%;
+  }
+}
+.conocimientos{
+  float:right;
+  padding-right: 40px;
+  h2{
+    color: black;
+  }
+}
+
+#info-about {
+  width: 35%;
+  display: block;
+  text-align: left;
+  float: right;
+  margin-top: 40px;
+  margin-right: 115px;
+  margin-bottom: 40px;
+}
+
+#proyecto-mim {
+  width: 70%;
+  height: 330px;
+  background-color: white;
+  padding-top: 30px;
+  padding-right: 60px;
+  display: block;
+  padding-bottom: 30px;
+  margin: 0 auto;
+}
+
+#conocimientos-about {
+  float: right;
+  padding-right: 50px;
+  margin-top: 300px;
+}
+
+#info-derecha {
+  width: 35%;
+  display: block;
+  text-align: left;
+  float: right;
+  margin-top: 40px;
+  margin-right: 115px;
+  margin-bottom: 40px;
+}
+
+#formacion {
+  width: 100%;
+  display: block;
+}

@@ -1,0 +1,62 @@
+/*Inicio MOBIL*/
+@media (max-width:400px){
+      .menu{
+        text-align: right;
+      }
+      .tituloh3{
+        text-align: right;
+      }
+      .header-logo {
+        img{
+          margin: 0 auto;
+          display: block;
+        }
+
+      }
+    }
+/*Fin MOBIL*/
+
+@media (max-width:737px){
+  ul.header-menu{
+    padding-top: 100px;
+  }
+  ul.about-ul{
+    display: block;
+    li{
+      width: 100%;
+      img{
+        padding: 40px;
+          width: 100%;
+      }
+
+    }
+  }
+  ul.about-ul li.contenido{
+    width: 100%;
+    div{
+      padding: 40px;
+    }
+    img{
+      padding-right: 30px;
+    }
+  }
+  .conocimientos{
+    padding: 0px;
+  }
+  ul.about-ul li.blanco{
+
+  }
+  ul.about-ul li.contenido div{
+    padding-top: 0px;
+  }
+}
+/*Inicio DESKTOP*/
+@media (min-width: 768px){
+  .menu{
+    text-align: right;
+  }
+  .tituloh3{
+    text-align: center;
+  }
+    }
+/*Fin DESKTOP*/

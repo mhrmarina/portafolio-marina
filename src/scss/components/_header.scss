@@ -1,0 +1,34 @@
+#header {
+  position: relative;
+  width: 100%;
+  padding-bottom: 30px;
+
+}
+
+
+ul.header-menu{
+  padding: 10px;
+  list-style: none;
+  background-color: white;
+  margin: 0;
+  padding-right: 75px;
+  padding-top: 55px;
+  border: 0;
+  display: flex;
+  float: right;
+  li{
+    font-size: 18px;
+    font-family: 'Gudea';
+    padding: 12px;
+    a  {
+      text-decoration: none;
+      color: black;
+    }
+  }
+}
+
+.header-logo {
+  padding-top: 40px;
+  padding-left: 40px;
+  float: left;
+}
